@@ -13,6 +13,7 @@
 
 2. **Set up environment**
     ```
+        cd user-crud-operation
         python3 -m venv venv
         venv/bin/activate
     ```
